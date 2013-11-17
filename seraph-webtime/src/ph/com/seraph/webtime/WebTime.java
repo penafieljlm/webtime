@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.seraph.webtime;
+package ph.com.seraph.webtime;
 
 import java.net.Inet4Address;
 import java.net.InetAddress;

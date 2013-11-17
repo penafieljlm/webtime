@@ -59,10 +59,8 @@ public class WebTime {
             System.out.println(
                       "\n  WebTime v1.00, by John Lawrence M. Penafiel <penafieljlm@gmail.com>"
                     + "\n    Description:"
-                    + "\n      This tool allows you to synchronize the clock of your linux machine to"
-                    + "\n      the clock of any web server of your choosing. This tool arose from the"
-                    + "\n      need of the author to constantly adjust the clock of the computer hos-"
-                    + "\n      ting their college thesis project, because of a broken CMOS battery."
+                    + "\n      This tool allows you to synchronize the clock of your Ubuntu"
+                    + "\n      machine to the clock of any web server of your choosing."
                     + "\n    Usage:"
                     + "\n      /<flag>            - sets the flag with the specified name to true"
                     + "\n      -<key> <value>     - sets the given key to the given value"

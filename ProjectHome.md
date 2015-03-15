@@ -1,0 +1,1 @@
+This tool allows you to synchronize the clock of your Ubuntu machine to the clock of any web server of your choosing.
